@@ -1,0 +1,1 @@
+本模型基于pytorch进行搭建，结合cnn bi_lstm attention架构进行股票的回归预测
